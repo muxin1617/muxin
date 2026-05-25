@@ -156,4 +156,4 @@ weights/
 *.onnx
 *.engine
 *.trt
-*.log
+*.log.workbuddy/
