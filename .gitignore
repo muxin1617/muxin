@@ -157,3 +157,5 @@ weights/
 *.engine
 *.trt
 *.log.workbuddy/
+
+.workbuddy/
